@@ -7,8 +7,8 @@ headers = {
     "Accept-Language":"es-ES,es;q=0.9",
     "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
-my_email = "pythonisamgm@gmail.com"
-my_password = "ueyf nwpf caxj velt"
+my_email = "myaccount@gmail.com"
+my_password = MY_PASSWORD
 
 def send_mail(file_content):
     """uses smtp to send an email"""
